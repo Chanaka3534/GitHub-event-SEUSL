@@ -1,3 +1,1 @@
-ls
 # GitHub-event-SEUSL
-
